@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Scientist;Machine+Learning+%26+Deep+Learning;AI+Engineer+%7C+Python+%7C+TensorFlow;Building+Data-Driven+AI+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Scientist;AI%2FML+Engineer;Machine+Learning+%26+Deep+Learning;Python+%7C+TensorFlow+%7C+Scikit-learn" />
 </p>
 
 <p align="center">
@@ -14,47 +14,48 @@
 
 ## 👨‍💻 About Me
 
-I am a **Data Scientist and Machine Learning Engineer** with a strong interest in **Deep Learning and AI-driven solutions**.  
-I enjoy building **real-world, scalable machine learning models** that solve meaningful problems using data.
+I am a **Data Scientist and AI/ML Engineer** with strong analytical and technical skills, seeking opportunities that offer meaningful challenges and continuous learning.  
+I am passionate about transforming data into **actionable insights and real-world AI solutions**.
 
-- 🔍 Strong foundation in Machine Learning & Statistics  
-- 🧠 Hands-on experience with **CNN, ANN, Dense Networks**  
-- 📊 End-to-end ML pipelines (EDA → Feature Engineering → Modeling → Evaluation)  
-- 🚀 Passionate about continuous learning, research, and experimentation  
+- 🔍 Strong foundation in **Machine Learning, Statistics & Linear Algebra**
+- 🧠 Hands-on experience with **CNN, ANN, and classical ML models**
+- 📊 Experience in **EDA, Feature Engineering, Model Training & Evaluation**
+- 🚀 Enthusiastic about applied AI, research, and experimentation
 
 ---
 
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,html,css,javascript,react,nodejs,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,html,css,javascript,react,nodejs,mongodb,git,github&theme=dark" />
 </p>
 
 **Core Areas**
 - Machine Learning & Deep Learning  
 - Computer Vision  
 - Data Analysis & Feature Engineering  
-- Model Optimization & Cross Validation  
+- Model Training, Evaluation & Optimization  
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Accuracy |
-|-------|------------|-----------|----------|
-| 💳 **Credit Card Fraud Detection** | Fraud classification using ML & ANN | Random Forest, ANN, SMOTE | 98% |
-| 🌸 **Iris Flower Classification** | Multiclass classification using KNN | Scikit-learn | 99% |
-| 🧬 **Breast Cancer Detection** | Tumor classification model | Logistic Regression | 96% |
+| Project | Description | Tech Stack | Performance |
+|-------|------------|-----------|-------------|
+| 💳 **Credit Card Fraud Detection** | Fraud detection using ML & ANN to identify suspicious transactions | Random Forest, ANN, SMOTE, Flask | 98% Accuracy |
+| 🌿 **Plant Disease Prediction** | Leaf image–based plant disease classification using deep learning | CNN, OpenCV, Streamlit | High Accuracy |
+| 🧬 **Breast Cancer Detection** | Classification of tumors as benign or malignant | Logistic Regression, Flask | 96% Accuracy |
 
 ---
 
 ## 🏆 Achievements & Leadership
 
-- 🥈 **2nd Prize – APJKTU Tech Fest 2023**  
-- 🌐 **IEEE & µLearn Web Master**  
-- 🧩 **Hackathon Coordinator – TinkerHub**  
-- 👨‍🏫 Conducted workshops on **Web Design & Introduction to AI**  
-- 👥 Active contributor to student tech communities  
+- 🥈 **2nd Prize – APJKTU Tech Fest 2023**
+- 🌐 **State IG Lead (UI/UX & Web Development) – GTech MuLearn**
+- 🧑‍💻 **College MuLearn Webmaster**
+- 🚀 **College IEDC Lead**
+- 🧩 Coordinated **TinkerHub hackathons & technical events**
+- 👨‍🏫 Conducted workshops on **Web Design, Introduction to AI, UI/UX & Web Development**
 
 ---
 
