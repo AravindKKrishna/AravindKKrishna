@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Scientist;AI%2FML+Engineer;Machine+Learning+%26+Deep+Learning;Python+%7C+TensorFlow+%7C+Scikit-learn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Scientist+%7C+Machine+Learning+Engineer;Deep+Learning+%7C+AI+Engineer+%7C+Computer+Vision;Python+%7C+TensorFlow+%7C+Scikit-learn;End-to-End+ML+Pipelines+%26+Model+Deployment" />
 </p>
 
 <p align="center">
@@ -12,54 +12,67 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me | Data Scientist & Machine Learning Engineer
 
-I am a **Data Scientist and AI/ML Engineer** with strong analytical and technical skills, seeking opportunities that offer meaningful challenges and continuous learning.  
-I am passionate about transforming data into **actionable insights and real-world AI solutions**.
+I am a **Data Scientist and Machine Learning Engineer** with hands-on experience in **Machine Learning, Deep Learning, and Artificial Intelligence**.  
+I specialize in building **end-to-end ML pipelines**, developing **predictive models**, and deploying **scalable AI solutions** using **Python**.
 
-- 🔍 Strong foundation in **Machine Learning, Statistics & Linear Algebra**
-- 🧠 Hands-on experience with **CNN, ANN, and classical ML models**
-- 📊 Experience in **EDA, Feature Engineering, Model Training & Evaluation**
-- 🚀 Enthusiastic about applied AI, research, and experimentation
-
----
-
-## 🛠️ Technical Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,html,css,javascript,react,nodejs,mongodb,git,github&theme=dark" />
-</p>
-
-**Core Areas**
-- Machine Learning & Deep Learning  
-- Computer Vision  
-- Data Analysis & Feature Engineering  
-- Model Training, Evaluation & Optimization  
+- ✔ Strong foundation in **Statistics, Linear Algebra & Probability**
+- ✔ Experience with **Supervised & Unsupervised Learning**
+- ✔ Hands-on with **Classification, Regression & Prediction Models**
+- ✔ Deep Learning using **CNN, ANN, Dense Neural Networks**
+- ✔ Expertise in **EDA, Feature Engineering, Feature Selection**
+- ✔ Model evaluation using **Cross-Validation, ROC-AUC, Precision, Recall**
+- ✔ Experience with **Model Deployment (Streamlit / Flask)**
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills | Tech Stack
 
-| Project | Description | Tech Stack | Performance |
-|-------|------------|-----------|-------------|
-| 💳 **Credit Card Fraud Detection** | Fraud detection using ML & ANN to identify suspicious transactions | Random Forest, ANN, SMOTE, Flask | 98% Accuracy |
-| 🌿 **Plant Disease Prediction** | Leaf image–based plant disease classification using deep learning | CNN, OpenCV, Streamlit | High Accuracy |
-| 🧬 **Breast Cancer Detection** | Classification of tumors as benign or malignant | Logistic Regression, Flask | 96% Accuracy |
+### Programming & Libraries
+- **Python**, NumPy, Pandas, Matplotlib, Seaborn  
+- **Scikit-learn**, TensorFlow, Keras  
+
+### Machine Learning & AI
+- Supervised Learning (Classification, Regression)
+- Deep Learning (CNN, ANN, Dense Networks)
+- Computer Vision
+- Model Optimization & Hyperparameter Tuning
+- Imbalanced Data Handling (SMOTE)
+
+### Web & Backend
+- HTML, CSS, JavaScript
+- React.js, Node.js, Express.js
+- REST APIs
+
+### Databases & Tools
+- MySQL, MongoDB
+- Git, GitHub
+- Jupyter Notebook, VS Code
+
+---
+
+## 🚀 Machine Learning & Data Science Projects
+
+| Project | Problem Solved | Tech Stack | Result |
+|-------|---------------|-----------|--------|
+| 💳 **Credit Card Fraud Detection** | Fraud detection on highly imbalanced data | Random Forest, ANN, SMOTE | **98% Accuracy** |
+| 🌸 **Iris Flower Classification** | Multiclass classification problem | KNN, Scikit-learn | **99% Accuracy** |
+| 🧬 **Breast Cancer Detection** | Early-stage cancer prediction | Logistic Regression | **96% Accuracy** |
 
 ---
 
 ## 🏆 Achievements & Leadership
 
-- 🥈 **2nd Prize – APJKTU Tech Fest 2023**
-- 🌐 **State IG Lead (UI/UX & Web Development) – GTech MuLearn**
-- 🧑‍💻 **College MuLearn Webmaster**
-- 🚀 **College IEDC Lead**
-- 🧩 Coordinated **TinkerHub hackathons & technical events**
-- 👨‍🏫 Conducted workshops on **Web Design, Introduction to AI, UI/UX & Web Development**
+- 🥈 **2nd Prize – APJ Abdul Kalam Technological University (KTU) Tech Fest 2023**
+- 🌐 **IEEE & µLearn Web Master**
+- 🧩 **Hackathon Coordinator – TinkerHub**
+- 👨‍🏫 Conducted workshops on **Web Development, Machine Learning & AI**
+- 👥 Active contributor to technical and developer communities
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AravindKKrishna&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
@@ -68,7 +81,7 @@ I am passionate about transforming data into **actionable insights and real-worl
 
 ---
 
-## 🌐 Contribution Overview
+## 🌐 Developer Activity Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AravindKKrishna&theme=github_dark" />
@@ -76,7 +89,7 @@ I am passionate about transforming data into **actionable insights and real-worl
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect | Open to Opportunities
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aravind-k-krishna-745433272/" target="_blank">
@@ -90,5 +103,5 @@ I am passionate about transforming data into **actionable insights and real-worl
 ---
 
 <p align="center">
-  ⭐ If you find my work interesting, consider starring my repositories!
+⭐ Interested in Data Science, Machine Learning, or AI? Feel free to explore and star my repositories!
 </p>
