@@ -1,126 +1,164 @@
-<h1 align="center">Hi 👋, I'm Aravind K Krishna</h1>
-
-<h3 align="center">
-Data Scientist | AI/ML Engineer | MLOps Enthusiast
-</h3>
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  Passionate about building scalable AI solutions using Machine Learning, Deep Learning, NLP, and MLOps.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aravind%20K%20Krishna&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:1e3a8a,100:06b6d4" />
+</p>
+
+<!-- ===================== TYPING ===================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+AI%2FML+Engineer;Deep+Learning+%7C+NLP+%7C+Computer+Vision;MLOps+Enthusiast+🚀;Building+Scalable+AI+Solutions;Always+Learning+%26+Building" />
+</p>
+
+<!-- ===================== BADGES ===================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=2563eb" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=7c3aed" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science — College of Engineering Pathanapuram  
-- 🤖 AI/ML Engineer with hands-on project experience in:
+```yaml
+Name: Aravind K Krishna
+Role: Data Scientist & AI/ML Engineer
+Location: Kerala, India
+
+Focus Areas:
   - Machine Learning
   - Deep Learning
   - NLP
   - Computer Vision
   - MLOps
-- ⚙️ Built end-to-end ML pipelines using Flask, MLflow, DagsHub, and TensorFlow
-- 🌱 Currently improving skills in Generative AI and scalable ML systems
-- 📍 Kottarakkara, Kollam, Kerala
+
+Currently Building:
+  - End-to-End AI Solutions
+  - Production ML Pipelines
+  - Real-world Deep Learning Applications
+```
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages & Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<p align="center">
 
-### Tools & Technologies
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,mongodb,mysql,flask,react,nodejs,express,javascript,html,css,git,github,vscode&theme=dark" />
 
-### Web Technologies
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 AI/ML Skills
 
-### 🍷 End-to-End Wine Quality Prediction System
-- Built a complete ML pipeline using ElasticNet regression
-- Implemented modular architecture with MLflow and DagsHub
-- Developed reusable workflows for preprocessing, training, evaluation, and prediction
-- Deployed using Flask
+<div align="center">
 
-### 🌿 Plant Disease Detection using CNN
-- Developed a CNN-based deep learning model for plant disease classification
-- Performed image preprocessing and augmentation using OpenCV
-- Built a real-time prediction interface using Streamlit
+| Machine Learning | Deep Learning | Deployment |
+|---|---|---|
+| Scikit-learn | TensorFlow | Flask |
+| Feature Engineering | Keras | Streamlit |
+| Data Preprocessing | CNN | MLflow |
+| Statistical Analysis | BiLSTM | DagsHub |
 
-### 💬 Sentiment Analysis using BiLSTM
-- Built a Bidirectional LSTM model for IMDB sentiment classification
-- Applied NLP preprocessing techniques including tokenization and sequence padding
-- Developed a deep learning pipeline for sentiment prediction
+</div>
 
 ---
 
-## 💼 Experience
+# 🚀 Featured Projects
 
-### Data Science Trainee — Arcite Project Management Consultancy
+<div align="center">
 
-- Built and evaluated Machine Learning and Deep Learning models
-- Performed EDA, preprocessing, and feature engineering
-- Worked with Pandas, NumPy, Scikit-learn, and TensorFlow
-- Assisted in deployment and testing of AI solutions
+| Project | Description | Technologies |
+|---|---|---|
+| 🍷 Wine Quality Prediction | End-to-end ML pipeline using ElasticNet regression with Flask deployment | Python, MLflow, DagsHub |
+| 🌿 Plant Disease Detection | CNN-based image classification system for disease prediction | TensorFlow, OpenCV, Streamlit |
+| 💬 Sentiment Analysis using BiLSTM | NLP-based sentiment classification on IMDB reviews | TensorFlow, NLP, BiLSTM |
+
+</div>
 
 ---
 
-## 🏆 Achievements & Leadership
+# 💼 Experience
+
+## 📊 Data Science Trainee — Arcite Project Management Consultancy
+
+✔ Built and evaluated Machine Learning and Deep Learning models  
+✔ Performed EDA, preprocessing, and feature engineering  
+✔ Worked with Pandas, NumPy, Scikit-learn, and TensorFlow  
+✔ Assisted in deployment and testing of AI solutions  
+
+---
+
+# 🏆 Achievements
 
 - 🥈 2nd Prize — APJKTU Tech Fest 2023
 - 🌐 State IG Lead (UI/UX & Web Development) — GTech MuLearn
 - 💻 College MuLearn Webmaster
 - 🚀 College IEDC Lead
-- 🎯 Coordinated TinkerHub hackathons and technical events
-- 👨‍🏫 Conducted workshops on AI, Web Development, UI/UX, and Web Design
+- 🎯 TinkerHub Hackathon Coordinator
+- 👨‍🏫 Conducted AI & Web Development workshops
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-- Generative AI & LLM Bootcamp — Pathway
-- Generative AI Workshop — NXT Wave
-- UX Bootcamp — UX Shorts
-- Cyber Security & Ethical Hacking Bootcamp — Tech Magi
+- 🎓 Generative AI & LLM Bootcamp — Pathway
+- 🤖 Generative AI Workshop — NXT Wave
+- 🎨 UX Bootcamp — UX Shorts
+- 🔐 Cyber Security & Ethical Hacking Bootcamp — Tech Magi
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📈 Contribution Graph
 
-- 📧 ananthkkrishna2001@gmail.com
-- 💼 LinkedIn: Add your LinkedIn profile link
-- 🌐 GitHub: Add your GitHub profile link
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ananthkkrishna2001@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-dc2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <b>Focused on building real-world AI systems with scalable and production-ready solutions.</b>
+
+### ⚡ Building Intelligent Systems with AI & MLOps 🚀
+
 </p>
