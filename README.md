@@ -1,22 +1,22 @@
 <!-- ================= AI/ML NEON BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Aravind%20K%20Krishna&fontSize=55&fontAlignY=35&animation=twinkling&color=0:00E5FF,50:7F00FF,100:FF00CC" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Aravind%20K%20Krishna&fontSize=52&fontAlignY=35&animation=twinkling&color=0:00E5FF,50:7F00FF,100:FF00CC" />
 </p>
 
 <!-- ================= TYPING INTRO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2800&pause=700&color=00FFE1&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Aravind+K+Krishna;Data+Scientist+%7C+AI%2FML+Engineer;MLOps+Enthusiast+🚀;Building+End-to-End+AI+Solutions;Deep+Learning+%7C+NLP+%7C+Computer+Vision" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2800&pause=700&color=00FFE1&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Aravind+K+Krishna;Data+Scientist+%7C+AI%2FML+Engineer;MLOps+Enthusiast+🚀;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+Scalable+AI+Solutions" />
 </p>
 
 <!-- ================= BADGES ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00FFE1&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=7F00FF"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=for-the-badge&color=FF00CC"/>
+  <img src="https://komarev.com/ghpvc/?username=AravindKKrishna&label=PROFILE+VIEWS&color=00FFE1&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/AravindKKrishna?label=FOLLOWERS&style=for-the-badge&color=7F00FF"/>
+  <img src="https://img.shields.io/github/stars/AravindKKrishna?label=STARS&style=for-the-badge&color=FF00CC"/>
 </p>
 
 <p align="center">
-  <b>📍 Kerala, India</b>
+  <b>📍 Kottarakkara, Kollam, Kerala</b>
 </p>
 
 ---
@@ -29,30 +29,61 @@
 - 🧠 Natural Language Processing (NLP)
 - 👁️ Computer Vision
 - ⚙️ MLOps & End-to-End ML Pipelines
-- 📊 Predictive Analytics & Data-Driven Solutions
+- 📊 Predictive Analytics & Scalable AI Solutions
 
-💡 I enjoy building scalable AI applications that solve real-world problems using modern machine learning technologies.
+💡 Built production-ready AI projects using **Flask, MLflow, DagsHub, TensorFlow, OpenCV, and Streamlit**.
 
 ---
 
 # 🛠️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mongodb,mysql,flask,react,nodejs,express,javascript,html,css,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,mongodb,mysql,flask,react,nodejs,express,javascript,html,css,git,github&theme=dark" />
 </p>
 
 ---
 
-# ⚙️ CORE EXPERTISE
+# ⚙️ SKILLS & EXPERTISE
 
-- Machine Learning & Deep Learning  
-- NLP & Sentiment Analysis  
-- Computer Vision using CNN  
-- Data Preprocessing & Feature Engineering  
-- Model Evaluation & Optimization  
-- End-to-End ML Pipelines  
-- MLOps with MLflow & DagsHub  
-- Flask & Streamlit Deployment  
+### 💻 Programming & Libraries
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- TensorFlow
+- Keras
+- OpenCV
+- NLTK
+
+### 🤖 AI/ML Concepts
+- Machine Learning
+- Deep Learning
+- NLP
+- Feature Engineering
+- Feature Selection
+- Data Preprocessing
+- Statistical Analysis
+- MLOps
+
+### ⚡ Tools & Technologies
+- Flask
+- MLflow
+- DagsHub
+- Streamlit
+- MongoDB
+- MySQL
+- Git & GitHub
+
+### 🌐 Web Technologies
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- Bootstrap
 
 ---
 
@@ -60,24 +91,9 @@
 
 | 🚀 Project | 📌 Description | 🛠️ Technologies |
 |------------|----------------|----------------|
-| 🍷 **Wine Quality Prediction System** | End-to-end ML pipeline using ElasticNet regression with MLflow, DagsHub, and Flask deployment | Python, Flask, MLflow |
-| 🌿 **Plant Disease Detection using CNN** | Deep learning model for plant disease classification using image processing and CNN | TensorFlow, OpenCV, Streamlit |
-| 💬 **Sentiment Analysis using BiLSTM** | NLP-based sentiment classification model trained on IMDB movie reviews | TensorFlow, NLP, BiLSTM |
-
----
-
-# 🏆 ACHIEVEMENTS & LEADERSHIP
-
-- 🥈 Won **2nd Prize** at APJKTU Tech Fest 2023  
-- 🌐 **State IG Lead (UI/UX & Web Development)** – GTech MuLearn  
-- 💻 **College MuLearn Webmaster**  
-- 🚀 **College IEDC Lead**  
-- 🎯 Coordinated TinkerHub Hackathons & Technical Events  
-- 👨‍🏫 Conducted workshops on:
-  - AI & Machine Learning
-  - Web Development
-  - UI/UX Design
-  - Web Design
+| 🍷 **End-to-End Wine Quality Prediction System** | Developed a complete ML pipeline using ElasticNet regression with experiment tracking and deployment workflows | Python, Flask, MLflow, DagsHub |
+| 🌿 **Plant Disease Detection using CNN** | Built a CNN model to classify plant diseases from leaf images with real-time prediction interface | TensorFlow, OpenCV, Streamlit |
+| 💬 **Sentiment Analysis using BiLSTM** | Developed a Bidirectional LSTM model for IMDB movie review sentiment classification | TensorFlow, NLP, BiLSTM |
 
 ---
 
@@ -92,24 +108,50 @@
   - NumPy
   - Scikit-learn
   - TensorFlow
-- Assisted in deployment and testing of ML solutions
+- Assisted in deployment and testing of AI/ML solutions for business applications
+
+---
+
+# 🏆 ACHIEVEMENTS & LEADERSHIP
+
+- 🥈 **2nd Prize** — APJKTU Tech Fest 2023
+- 🌐 **State IG Lead (UI/UX & Web Development)** — GTech MuLearn
+- 💻 **College MuLearn Webmaster**
+- 🚀 **College IEDC Lead**
+- 🎯 Coordinated TinkerHub Hackathons & Technical Events
+- 👨‍🏫 Conducted workshops on:
+  - AI & Machine Learning
+  - Web Development
+  - UI/UX Design
+  - Web Design
 
 ---
 
 # 📜 CERTIFICATIONS
 
-- 🎓 Generative AI & LLM Bootcamp – Pathway  
-- 🤖 Generative AI Workshop – NXT Wave  
-- 🎨 UX Bootcamp – UX Shorts  
-- 🔐 Cyber Security & Ethical Hacking Bootcamp – Tech Magi  
+- 🎓 Generative AI & LLM Bootcamp — Pathway
+- 🤖 Generative AI Workshop — NXT Wave
+- 🎨 UX Bootcamp — UX Shorts
+- 🔐 Cyber Security & Ethical Hacking Bootcamp — Tech Magi
+
+---
+
+# 🎓 EDUCATION
+
+🎓 **Bachelor of Technology in Computer Science**  
+📍 College of Engineering Pathanapuram  
+📊 CGPA: **7.66 / 10**
+
+🎓 **Diploma in Data Science & Machine Learning Using Python**  
+📍 Arcite School Of Data Science
 
 ---
 
 # 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AravindKKrishna&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AravindKKrishna&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -117,7 +159,7 @@
 # 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AravindKKrishna&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -125,7 +167,7 @@
 # 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AravindKKrishna/AravindKKrishna/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -133,7 +175,7 @@
 # 🌐 PROFILE SUMMARY
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AravindKKrishna&theme=tokyonight" />
 </p>
 
 ---
@@ -141,7 +183,7 @@
 # 🤝 CONNECT WITH ME
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
@@ -149,7 +191,7 @@
     <img src="https://img.shields.io/badge/Gmail-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/AravindKKrishna">
     <img src="https://img.shields.io/badge/GitHub-PROFILE-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
